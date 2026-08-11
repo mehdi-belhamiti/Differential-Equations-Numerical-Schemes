@@ -1,4 +1,4 @@
-# Ordinary Differential Equations and Numerical Resolution 📈
+# Ordinary Differential Equations and Numerical Resolution
 
 This repository contains all my practical work completed as part of the Ordinary Differential Equations course for my **Double Bachelor's Degree in Mathematics and Economics** at **Paris-Saclay University**
 
